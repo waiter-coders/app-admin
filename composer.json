@@ -1,0 +1,15 @@
+{
+  "name": "waiterphp/admin",
+  "description": "this is app sample app",
+  "type": "project",
+  "require": {
+    "waiterphp/drives-view-smarty": "^1.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tian Zheng",
+      "email": "949855040@qq.com"
+    }
+  ]
+}
